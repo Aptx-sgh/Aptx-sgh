@@ -1,7 +1,11 @@
      ## Hi there 👋
 
 
-https://github.com/user-attachments/assets/0aad725c-b052-4bfe-b4a1-9a0427fff662
+myi lyfe yn xtudi thnsk fof 
+
+
+https://github.com/user-attachments/assets/d3bc0a63-28a6-497d-a7af-77f001ed1e32
+
 
 
 <!--

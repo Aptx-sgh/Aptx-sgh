@@ -1,13 +1,12 @@
      ## Hi there 👋
 
-
+<div align="center">
 myi lyfe yn xtudi thnsk fof vysit <3
 
 
+<img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="500"/>
 
-![7569455081910](https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8)
-
-
+---
 
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

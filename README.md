@@ -1,10 +1,11 @@
      ## Hi there 👋
 
 
-myi lyfe yn xtudi thnsk fof 
+myi lyfe yn xtudi thnsk fof vysit <3
 
 
-https://github.com/user-attachments/assets/d3bc0a63-28a6-497d-a7af-77f001ed1e32
+
+![7569455081910](https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8)
 
 
 

@@ -18,11 +18,11 @@ myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
 
 <img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/fd47b905-f7e9-47aa-9d93-04cc45acecbd" />
 
-<img width="621" height="286" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
+<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
 
-<img width="408" height="285" alt="Screenshot 2026-02-28 180019" src="https://github.com/user-attachments/assets/a7e4b48e-cd48-42d8-a204-0f7ad34f073a" />
+<img width="180" height="285" alt="Screenshot 2026-02-28 180019" src="https://github.com/user-attachments/assets/a7e4b48e-cd48-42d8-a204-0f7ad34f073a" />
 
-<img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/620ef86a-25f4-487d-b841-77737397cf2c" />
+<img width="201" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/620ef86a-25f4-487d-b841-77737397cf2c" />
 
 <img src="https://github.com/user-attachments/assets/bd1cc6a4-9ad4-45a6-abbf-1363f506643ew" width="204"/>
 

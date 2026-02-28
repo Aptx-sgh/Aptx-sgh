@@ -1,7 +1,7 @@
 <div align="center">
 ## hy ther🕊
 
-myi lyfe yn xtudi thnsk fof vysit <3
+myi lyfe only yn xtudi & dammei thnsk fof vysit <3
 
 
 <img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="500"/>

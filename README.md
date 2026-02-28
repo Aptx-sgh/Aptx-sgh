@@ -21,6 +21,11 @@ myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
 <img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
 <img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
 <img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
+<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
+<img width="204" height="191" alt="Screenshot 2026-02-28 180049" src="https://github.com/user-attachments/assets/65af565d-de31-460a-872b-5b7fda2e4aab" />
+<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
+<img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/79bc7593-13f3-4ab1-90f4-3d8accf2a20d" />
+<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

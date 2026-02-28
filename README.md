@@ -3,6 +3,8 @@
 
 myi lyfe only yn xtudi & dammei thnsk fof vysit <3
 
+<p align=center> <img src=https://komarev.com/ghpvc/?username=aptx-sgh&color=1d5958&style=flat-square&label=🍊>
+
 
 <img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="500"/>
 

@@ -10,7 +10,9 @@ myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
 <img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="500"/>
 
 ---
+
 <img scr="https://github.com/user-attachments/assets/8bc3cf9f-8319-4be1-9926-cdfc1dca93d1" width="204"/>
+
 
 <img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/79bc7593-13f3-4ab1-90f4-3d8accf2a20d" />
 
@@ -23,6 +25,7 @@ myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
 <img width="180" height="285" alt="Screenshot 2026-02-28 180019" src="https://github.com/user-attachments/assets/a7e4b48e-cd48-42d8-a204-0f7ad34f073a" />
 
 <img width="201" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/620ef86a-25f4-487d-b841-77737397cf2c" />
+
 
 <img src="https://github.com/user-attachments/assets/bd1cc6a4-9ad4-45a6-abbf-1363f506643ew" width="204"/>
 

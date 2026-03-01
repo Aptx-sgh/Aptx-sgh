@@ -12,7 +12,7 @@ thnsk fof vysit <3
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
 
-<img scr="https://github.com/user-attachments/assets/a88b13ab-237f-4090-afaf-78f738837a4b" width="400" align="left"/>
+
 <div align="right">
   </br>
    <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" />
@@ -33,6 +33,7 @@ wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src=
 </tr>
 </table>
 
+![e2d440c73a3dff003c26d4914dfe9b56](https://github.com/user-attachments/assets/9ee1c156-0b07-4be5-a414-ee886dfb86fe)
 
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

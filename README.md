@@ -14,14 +14,15 @@ wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src=
 <table>
   <tr>
     <th>
-      $\color{Goldenrod}{\textsf{feel free to sit near me/cuddle/hide behind me}}$ <br>
-      $\color{Goldenrod}{\textsf{i'm almost always offtab, so whisper to interact}}$ <br>
-      $\color{Goldenrod}{\textsf{i might be slow at replying/disconnect from pt}}$ <br>
-      $\color{Goldenrod}{\textsf{i can be awkward but i promise im nice}}$ <br>
-      $\color{Goldenrod}{\textsf{im a minor, 31/1/2010}}$ <br>
-      $\color{Goldenrod}{\textsf{dont vent to me if you want good advice}}$ <br>
-      $\color{Goldenrod}{\textsf{feel free to copy/inspo/post me on pinterest}}$ <br>
-      $\color{Goldenrod}{\textsf{i unfriend people who are offline for 250+ days}}$ <br>
+      $\color{Goldenrod}{\textsf{feel free to sit near me/cuddle me}}$ <br>
+      $\color{Goldenrod}{\textsf{I don't usually pay attention to online interaction, so please whisper to interact!}}$ <br>
+      $\color{Goldenrod}{\textsf{I don't want to get close to negative things, so please don't mention them <3}}$ <br>
+      $\color{Goldenrod}{\textsf{I might be a little weird, but I promise I'm kind and sociable!}}$ <br>
+      $\color{Goldenrod}{\textsf{I'm ABG, born January 31, 2013.}}$ <br>
+      $\color{Goldenrod}{\textsf{Don't ask me about love :9 I hate it bruh. Knowledge is never lacking <2}}$ <br>
+      $\color{Goldenrod}{\textsf{Feel free to copy/take inspiration from me/post me anywhere!}}$ <br>
+      $\color{Goldenrod}{\textsf{I like learning, dammei, and jokes.}}$ <br>
+
 </th>
 </tr>
 </table>

@@ -11,7 +11,7 @@ thnsk fof vysit <3
 
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
-<img width="69" height="308" alt="Screenshot 2026-03-01 100405" src="https://github.com/user-attachments/assets/e8ce5826-dada-4ae2-9a7f-a85e08095e8f"  align="left"/>
+<img width="298" height="537" alt="Screenshot 2026-03-01 100405" src="https://github.com/user-attachments/assets/e8ce5826-dada-4ae2-9a7f-a85e08095e8f"  align="left"/>
 
 
 <div align="right">

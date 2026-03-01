@@ -25,7 +25,7 @@ wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src=
       $\color{#D9A883}{\textsf{I don't usually pay attention to online interaction, so please whis to interact!}}$ <br>
       $\color{#994d47}{\textsf{I don't want to get close to negative things, so please don't mention them <3}}$ <br>
       $\color{#D9A883}{\textsf{I'm a bit jet jet, but I promise I'm kind and sociable!}}$ <br>
-      $\color{#994d47}{\textsf{I'm ABG, born January 31, 2013.}}$ <br>
+      $\color{#994d47}{\textsf{I'm ABG, born 9/ 16/ 2013.}}$ <br>
       $\color{#D9A883}{\textsf{Don't ask me about love :9 I hate it bruh. Knowledge is never lacking <2}}$ <br>
       $\color{#994d47}{\textsf{Feel free to copy/take inspiration from me/post me anywhere!}}$ <br>
       $\color{#D9A883}{\textsf{My life only learning, dammei, and jokes.}}$ <br>

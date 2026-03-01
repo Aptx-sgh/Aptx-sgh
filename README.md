@@ -11,22 +11,20 @@ myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
 
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
-<img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/79bc7593-13f3-4ab1-90f4-3d8accf2a20d" />
-<img width="204" height="191" alt="Screenshot 2026-02-28 180049" src="https://github.com/user-attachments/assets/65af565d-de31-460a-872b-5b7fda2e4aab" />
-<img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/fd47b905-f7e9-47aa-9d93-04cc45acecbd" />
-<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
-<img width="180" height="285" alt="Screenshot 2026-02-28 180019" src="https://github.com/user-attachments/assets/a7e4b48e-cd48-42d8-a204-0f7ad34f073a" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/620ef86a-25f4-487d-b841-77737397cf2c" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
-<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
-<img width="204" height="191" alt="Screenshot 2026-02-28 180049" src="https://github.com/user-attachments/assets/65af565d-de31-460a-872b-5b7fda2e4aab" />
-<img width="100" height="285" alt="Screenshot 2026-02-28 180036" src="https://github.com/user-attachments/assets/380260ed-bcd0-4fb1-b10e-0c9ef38f35e8" />
-<img width="204" height="191" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/79bc7593-13f3-4ab1-90f4-3d8accf2a20d" />
-<img width="201" height="191" alt="Screenshot 2026-02-28 181535" src="https://github.com/user-attachments/assets/306756d7-ef2c-4acb-b94e-29e0e41dcbbc" />
+<table>
+  <tr>
+    <th>
+      $\color{Goldenrod}{\textsf{feel free to sit near me/cuddle/hide behind me}}$ <br>
+      $\color{Goldenrod}{\textsf{i'm almost always offtab, so whisper to interact}}$ <br>
+      $\color{Goldenrod}{\textsf{i might be slow at replying/disconnect from pt}}$ <br>
+      $\color{Goldenrod}{\textsf{i can be awkward but i promise im nice}}$ <br>
+      $\color{Goldenrod}{\textsf{im a minor, 31/1/2010}}$ <br>
+      $\color{Goldenrod}{\textsf{dont vent to me if you want good advice}}$ <br>
+      $\color{Goldenrod}{\textsf{feel free to copy/inspo/post me on pinterest}}$ <br>
+      $\color{Goldenrod}{\textsf{i unfriend people who are offline for 250+ days}}$ <br>
+</th>
+</tr>
+</table>
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

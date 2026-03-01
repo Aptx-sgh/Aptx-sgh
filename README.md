@@ -11,7 +11,7 @@ thnsk fof vysit <3
 
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
-<img scr="https://github.com/user-attachments/assets/9ee1c156-0b07-4be5-a414-ee886dfb86fe" width="200" height="400"/>
+<img scr="https://github.com/user-attachments/assets/9ee1c156-0b07-4be5-a414-ee886dfb86fe" width="200" height="300"/>
 
 <div align="right">
   </br>

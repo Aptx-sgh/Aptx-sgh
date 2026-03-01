@@ -1,7 +1,7 @@
 <div align="center">
 ## hy ther🕊
 
-myi lyfe only yn xtudi, fryeds & dammei thnsk fof vysit <3
+thnsk fof vysit <3
 
 
 <img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
@@ -21,7 +21,7 @@ wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src=
       $\color{Goldenrod}{\textsf{I'm ABG, born January 31, 2013.}}$ <br>
       $\color{Goldenrod}{\textsf{Don't ask me about love :9 I hate it bruh. Knowledge is never lacking <2}}$ <br>
       $\color{Goldenrod}{\textsf{Feel free to copy/take inspiration from me/post me anywhere!}}$ <br>
-      $\color{Goldenrod}{\textsf{I like learning, dammei, and jokes.}}$ <br>
+      $\color{Goldenrod}{\textsf{My life only learning, dammei, and jokes.}}$ <br>
 
 </th>
 </tr>

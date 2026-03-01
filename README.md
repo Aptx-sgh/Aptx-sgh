@@ -11,9 +11,12 @@ thnsk fof vysit <3
 
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
-<div align="right">
-<img scr="https://github.com/user-attachments/assets/a0aa82a4-4983-4594-956f-8455ad14e0a8" width="100"/>
-<div align="left">
+
+<img scr="https://github.com/user-attachments/assets/a0aa82a4-4983-4594-956f-8455ad14e0a8" width="100" align="right"/>
+
+  </br>
+   <img width="100" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" />
+
 <table>
   <tr>
     <th>
@@ -29,8 +32,8 @@ wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src=
 </th>
 </tr>
 </table>
-<img align="left" width="300" height="300" alt="tumblr_c2a585704b871d75f3333042ad2a22b0_7afa730b_1280" src="https://github.com/user-attachments/assets/e59234c5-8c44-478d-815e-dc0f4d3e6f62"/>
 
+<img align="left" width="300" height="300" alt="tumblr_c2a585704b871d75f3333042ad2a22b0_7afa730b_1280" src="https://github.com/user-attachments/assets/e59234c5-8c44-478d-815e-dc0f4d3e6f62"/>
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

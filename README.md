@@ -12,7 +12,7 @@ thnsk fof vysit <3
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 
 
-<img scr="https://github.com/user-attachments/assets/a0aa82a4-4983-4594-956f-8455ad14e0a8" width="100" align="right"/>
+<img scr="https://github.com/user-attachments/assets/a0aa82a4-4983-4594-956f-8455ad14e0a8" width="90" align="left"/>
 <div align="right">
   </br>
    <img width="100" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" />

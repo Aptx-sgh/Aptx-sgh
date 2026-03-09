@@ -3,9 +3,7 @@
 
 thnsk fof vysit <3
 
-
-<img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">\
-
+<img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
 <img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="300" align="right"/>
 
 <div align="left"/>

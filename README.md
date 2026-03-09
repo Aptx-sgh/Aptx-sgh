@@ -27,8 +27,6 @@ thnsk fof vysit <3
 </table>
 
 
-wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
-
 <img width="247" height="462" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
 
 

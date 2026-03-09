@@ -37,7 +37,7 @@ thnsk fof vysit <3
 <div align="right">
   </br>
    <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Omori&size=30&duration=1&pause=5000&color=ff0000&center=true&vCenter=true&width=200&height=25&lines=Not+Interact" alt="Typing SVG" /></a>
+
 <table>
   <tr>
     <th>
@@ -53,7 +53,6 @@ thnsk fof vysit <3
 </th>
 </tr>
 </table>
-
 
 
 <!--

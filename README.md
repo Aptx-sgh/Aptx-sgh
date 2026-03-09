@@ -4,7 +4,7 @@
 thnsk fof vysit <3
 
 <img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
-<img width="245" height="357" alt="Screenshot 2026-03-09 160342" src="https://github.com/user-attachments/assets/324defa9-aa2b-46f4-a69a-37a9a5fc0ec4" align="right"/>
+<img width="145" height="257" alt="Screenshot 2026-03-09 160342" src="https://github.com/user-attachments/assets/324defa9-aa2b-46f4-a69a-37a9a5fc0ec4" align="right"/>
 
 
 <div align="left"/>

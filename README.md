@@ -11,6 +11,7 @@ thnsk fof vysit <3
 
 
 <div align="left"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=F7CD1A&center=true&vCenter=true&width=200&height=25&lines=Do+Not+Interact" alt="Typing SVG" /></a>
 </br>
 <table>
   <tr>

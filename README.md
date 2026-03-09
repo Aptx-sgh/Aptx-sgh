@@ -18,9 +18,9 @@ thnsk fof vysit <3
       $\color{#ef903f}{\textsf{I'm a bit jet jet, but I promise I'm kind and sociable!}}$ <br>
       $\color{#c9ac7b}{\textsf{I'm ABG, born 9/ 16/ 2013.}}$ <br>
       $\color{#ef903f}{\textsf{I hate lov I hate lovv! I like jokes I likes jokes :9 <2}}$ <br>
-      $\color{#c9ac7b}{\textsf{Feel free to take inspiration from me/post me anywhere!}}$ <br>
+      $\color{#c9ac7b}{\textsf{Feel free to post me anywhere!}}$ <br>
       $\color{#ef903f}{\textsf{My life only learning, dammei, and jokes.}}$ <br>
-
+      $\color{#c9ac7b}{\textsf{to copy or steal my intellectual property!}}$ <br>
   </th>
   </tr>
 </table>

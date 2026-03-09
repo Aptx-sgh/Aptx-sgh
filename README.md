@@ -38,11 +38,11 @@ thnsk fof vysit <3
   <tr>
     <th>
       $\color{#994d47}{\textsf{Honestly, I'm really talkative and "jet"}}$ <br>
-      $\color{#D9A883}{\textsf{I dont usually pay attention to onl interaction, so please whis to interact!}}$ <br>
+      $\color{#D9A883}{\textsf{I cherish my community relationships.!}}$ <br>
       $\color{#994d47}{\textsf{I've met many people with negative thoughts}}$ <br>
       $\color{#994d47}{\textsf{and some who even threatened their lives.}}$ <br>
       $\color{#D9A883}{\textsf{I still hate that, so please stay positive <3.}}$ <br>
-      $\color{#994d47}{\textsf{I hate lov I hate lovv! I like jokes I likes jokes :9 <2}}$ <br>
+      $\color{#994d47}{\textsf{Feel free to visit my atabook. :9 <2}}$ <br>
       $\color{#D9A883}{\textsf{Thank you for visiting my Git.}}$ <br>
       $\color{#994d47}{\textsf{Wishing you happiness!}}$ <br>
 

@@ -6,8 +6,24 @@ thnsk fof vysit <3
 
 <img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
 
+</br>
+<table>
+  <tr>
+    <th>
+      $\color{#c9ac7b}{\textsf{feel free to sit near me/cuddle me}}$ <br>
+      $\color{#ef903f}{\textsf{I dont usually pay attention to onl interaction, so please whis to interact!}}$ <br>
+      $\color{#c9ac7b}{\textsf{I dont want to get close to negative things, so please dont mention them}}$ <br>
+      $\color{#ef903f}{\textsf{I'm a bit jet jet, but I promise I'm kind and sociable!}}$ <br>
+      $\color{#c9ac7b}{\textsf{I'm ABG, born 9/ 16/ 2013.}}$ <br>
+      $\color{#ef903f}{\textsf{I hate lov I hate lovv! I like jokes I likes jokes :9 <2}}$ <br>
+      $\color{#c9ac7b}{\textsf{Feel free to take inspiration from me/post me anywhere!}}$ <br>
+      $\color{#ef903f}{\textsf{My life only learning, dammei, and jokes.}}$ <br>
 
-<img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="300"/>
+  </th>
+  </tr>
+</table>
+
+<img src="https://github.com/user-attachments/assets/23b4cd19-cad6-430c-a362-3b4db2854aa8" width="300" align="right"/>
 
 wait a minute<img width="90" height="90" alt="Screenshot 2026-02-28 175907" src="https://github.com/user-attachments/assets/6d031dd8-cab7-4628-a28a-7c9b6fef7c9c" />
 

@@ -7,7 +7,7 @@ thnsk fof vysit <3
 
 <img width="1076" height="444" alt="image" src="https://github.com/user-attachments/assets/44fc32b3-c4e2-4c1b-8e55-2d886d71b56a" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9c0f0f" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+repo!;Ngày+mới+tốt+lành<3;I+miss+u!;Yeuuu&font=Script%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9c0f0f" alt="Example Usage - README Typing SVG">
 
 
 <img width="390" height="590" alt="Screenshot 2026-03-11 202617" src="https://github.com/user-attachments/assets/f952f5ee-67ca-4735-9a05-2c110bc528fa" align="right"/>

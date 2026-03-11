@@ -41,13 +41,13 @@ thnsk fof vysit <3
 <table>
   <tr>
     <th>
-      $\color{#994d47}{\textsf{Honestly, I'm really talkative and "jet"}}$ <br>
-      $\color{#D9A883}{\textsf{I cherish my community relationships.!}}$ <br>
-      $\color{#994d47}{\textsf{I've met many people with negative thoughts}}$ <br>
-      $\color{#994d47}{\textsf{and some who even threatened their lives.}}$ <br>
-      $\color{#D9A883}{\textsf{I still hate that, so please stay positive <3.}}$ <br>
-      $\color{#994d47}{\textsf{Feel free to visit my atabook. :9 <2}}$ <br>
-      $\color{#D9A883}{\textsf{Thank you for visiting my Git.}}$ <br>
+      $\color{#994d47}{\textsf{xin chào📍}}$ <br>
+      $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex}}$ <br>
+      $\color{#994d47}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>
+      $\color{#994d47}{\textsf{ủng hộ luận loan, thẩm ru, có vấn đề tâm lí, v.v. Thì mình từ chối trò chuyện.}}$ <br>
+      $\color{#D9A883}{\textsf{mình không 🥵 cũng không 🥶 nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
+      $\color{#994d47}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
+      $\color{#D9A883}{\textsf{bạn cứ hỏi, bắt chuyện với mình<3 (trừ mấy người ở trên nhé😭).}}$ <br>
       $\color{#994d47}{\textsf{Wishing you happiness!}}$ <br>
 
 </th>

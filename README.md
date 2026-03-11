@@ -42,7 +42,7 @@ thnsk fof vysit <3
   <tr>
     <th>
       $\color{#994d47}{\textsf{xin chào📍}}$ <br>
-      $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex}}$ <br>
+      $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex. 16/ 09/ 2xxx.}}$ <br>
       $\color{#994d47}{\textsf{mình không gây ô nhiễm môi trường nhưng ai cũng có}}$ <br>
       $\color{#994d47}{\textsf{thể trở thành gia vị nên mình xl về chuyện đó nhé😓.}}$ <br>
       $\color{#D9A883}{\textsf{mình không 🥵 cũng không 🥶 nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>

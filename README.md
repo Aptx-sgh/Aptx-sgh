@@ -43,12 +43,15 @@ thnsk fof vysit <3
     <th>
       $\color{#994d47}{\textsf{xin chào📍}}$ <br>
       $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex}}$ <br>
-      $\color{#994d47}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>
-      $\color{#994d47}{\textsf{ủng hộ luận loan, thẩm ru, có vấn đề tâm lí, v.v. Thì mình từ chối trò chuyện.}}$ <br>
+      $\color{#994d47}{\textsf{đôi khi mình ngồi 1 mình, offtab, không để ý đến viêc tương tác cho nên hãy whis nhe}}$ <br>
+      $\color{#994d47}{\textsf{mình không gây ô nhiễm môi trường nhưng ai cũng có thể trở thành gia vị nên mình xl về chuyện đó nhé😓.}}$ <br>
       $\color{#D9A883}{\textsf{mình không 🥵 cũng không 🥶 nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
       $\color{#994d47}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
-      $\color{#D9A883}{\textsf{bạn cứ hỏi, bắt chuyện với mình<3 (trừ mấy người ở trên nhé😭).}}$ <br>
-      $\color{#994d47}{\textsf{Wishing you happiness!}}$ <br>
+      $\color{#D9A883}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>
+      $\color{#994d47}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>
+      $\color{#D9A883}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>
+      $\color{#994d47}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>
+      $\color{#994d47}{\textsf{ủng hộ luận loan, thẩm ru, có vấn đề tâm lí, v.v. Thì mình từ chối trò chuyện.}}$ <br>
 
 </th>
 </tr>

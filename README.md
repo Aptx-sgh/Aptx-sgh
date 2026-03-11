@@ -5,7 +5,7 @@ thnsk fof vysit <3
 
 <img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
 
-<img width="976" height="333" alt="image" src="https://github.com/user-attachments/assets/44fc32b3-c4e2-4c1b-8e55-2d886d71b56a" />
+<img width="1076" height="444" alt="image" src="https://github.com/user-attachments/assets/44fc32b3-c4e2-4c1b-8e55-2d886d71b56a" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9c0f0f" alt="Example Usage - README Typing SVG">
 

@@ -8,7 +8,8 @@ thnsk fof vysit <3
 <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9c0f0f" alt="Example Usage - README Typing SVG">
 
 
-<img width="598" height="624" alt="Screenshot 2026-03-11 201519" src="https://github.com/user-attachments/assets/c463cb3b-e902-4cae-a022-3bbb14ac6eef" align="right"/>
+
+<img width="776" height="111" alt="image" src="https://github.com/user-attachments/assets/94c33318-2398-4201-8507-35da732de3ad" />
 
 
 <div align="left"/>

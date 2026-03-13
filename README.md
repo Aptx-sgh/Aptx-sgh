@@ -8,7 +8,7 @@ thnsk fof vysit <3
 <img width="1076" height="444" alt="image" src="https://github.com/user-attachments/assets/44fc32b3-c4e2-4c1b-8e55-2d886d71b56a" />
 
 
-<img width="390" height="590" alt="Screenshot 2026-03-11 202617" src="https://github.com/user-attachments/assets/f952f5ee-67ca-4735-9a05-2c110bc528fa" align="right"/>
+<img width="290" height="490" alt="Screenshot 2026-03-11 202617" src="https://github.com/user-attachments/assets/f952f5ee-67ca-4735-9a05-2c110bc528fa" align="right"/>
 
 
 
@@ -34,7 +34,7 @@ thnsk fof vysit <3
 </table>
 
 
-<img width="247" height="462" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
+<img width="147" height="362" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
 
 
 <div align="right">

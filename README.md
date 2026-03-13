@@ -34,7 +34,7 @@ thnsk fof vysit <3
 </table>
 
 
-<img width="147" height="362" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
+<img width="247" height="462" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
 
 
 <div align="right">
@@ -48,8 +48,8 @@ thnsk fof vysit <3
       $\color{#994d47}{\textsf{xin chào📍}}$ <br>
       $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex. 16/ 09/ 2xxx.}}$ <br>
       $\color{#994d47}{\textsf{mình không gây ô nhiễm môi trường nhưng ai cũng có}}$ <br>
-      $\color{#994d47}{\textsf{thể trở thành gia vị nên mình xl về chuyện đó nhé😓.}}$ <br>
-      $\color{#D9A883}{\textsf{mình không 🥵 cũng không 🥶 nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
+      $\color{#994d47}{\textsf{thể trở thành gia vị nên mình xl về chuyện đó nhé.}}$ <br>
+      $\color{#D9A883}{\textsf{mình không nóng cũng không lạnh nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
       $\color{#994d47}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
       $\color{#D9A883}{\textsf{đôi khi mình ngồi 1 mình, offtab, không để ý đến viêc tương tác cho nên hãy whis nhe.}}$ <br>
       $\color{#994d47}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>

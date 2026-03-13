@@ -29,6 +29,7 @@ thnsk fof vysit <3
       $\color{#ef903f}{\textsf{My life only learning, dammei, and jokes.}}$ <br>
       $\color{#c9ac7b}{\textsf{I will not allow anyone, not even my friends,}}$ <br>
       $\color{#c9ac7b}{\textsf{to copy or steal my intellectual property<3}}$ <br>
+      $\color{#ef903f}{\textsf{but i realy hate my family, sorry.}}$ <br>
   </th>
   </tr>
 </table>
@@ -47,15 +48,15 @@ thnsk fof vysit <3
     <th>
       $\color{#994d47}{\textsf{xin chào📍}}$ <br>
       $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex. 16/ 09/.}}$ <br>
-      $\color{#994d47}{\textsf{mình không gây ô nhiễm môi trường nhưng ai cũng có}}$ <br>
-      $\color{#994d47}{\textsf{thể trở thành gia vị nên mình xl về chuyện đó nhé.}}$ <br>
-      $\color{#D9A883}{\textsf{mình không nóng cũng không lạnh nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
-      $\color{#994d47}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
-      $\color{#D9A883}{\textsf{đôi khi ngồi 1 mình, offtab, không để ý việc tương tác cho nên bạn hãy whis nhe.}}$ <br>
-      $\color{#994d47}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>
-      $\color{#D9A883}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>
-      $\color{#994d47}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>
-      $\color{#994d47}{\textsf{ủng hộ luận loan, thẩm ru, có vấn đề tâm lí, v.v. Thì mình từ chối trò chuyện.}}$ <br>
+      $\color{#994d47}{\textsf{mình không yêu đương.}}$ <br>
+      $\color{#D9A883}{\textsf{mình thật sự ghét gđ mình nên mình xl về chuyện đó nhé.}}$ <br>
+      $\color{#994d47}{\textsf{mình không nóng cũng không lạnh nhưng có đủ chuyện để kể với bạn <3.}}$ <br>
+      $\color{#D9A883}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
+      $\color{#994d47}{\textsf{đôi khi ngồi 1 mình, offtab, không để ý việc tương tác cho nên bạn hãy whis nhe.}}$ <br>
+      $\color{#D9A883}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>
+      $\color{#994d47}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>
+      $\color{#D9A883}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>
+      $\color{#D9A883}{\textsf{ủng hộ luận loan, thẩm ru, có vấn đề tâm lí, v.v. Thì mình từ chối trò chuyện.}}$ <br>
 
 </th>
 </tr>

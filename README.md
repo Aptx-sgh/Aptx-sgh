@@ -40,7 +40,7 @@ thnsk fof vysit <3
 
 <div align="right">
   </br>
-   <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" />
+   <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" align="centre"/>
 
 
 <table>

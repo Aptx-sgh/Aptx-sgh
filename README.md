@@ -23,7 +23,7 @@ thnsk fof vysit <3
       $\color{#ef903f}{\textsf{I dont usually pay attention to onl int, so please whis to interact!}}$ <br>
       $\color{#c9ac7b}{\textsf{I don't disc against gay, les, bi, etc.(I even like them)<3}}$ <br>
       $\color{#ef903f}{\textsf{I'm a bit jet jet, but I promise I'm kind and sociable!}}$ <br>
-      $\color{#c9ac7b}{\textsf{I'm ABG, born 9/ 16/ 2xxx.}}$ <br>
+      $\color{#c9ac7b}{\textsf{I'm ABG, born 9/ 16/.}}$ <br>
       $\color{#ef903f}{\textsf{I Like Joke }}$ <br>
       $\color{#c9ac7b}{\textsf{Feel free to post me anywhere!}}$ <br>
       $\color{#ef903f}{\textsf{My life only learning, dammei, and jokes.}}$ <br>
@@ -46,12 +46,12 @@ thnsk fof vysit <3
   <tr>
     <th>
       $\color{#994d47}{\textsf{xin chào📍}}$ <br>
-      $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex. 16/ 09/ 2xxx.}}$ <br>
+      $\color{#D9A883}{\textsf{mình tên beo, hoặc bạn có thể gọi là aptx/ptex. 16/ 09/.}}$ <br>
       $\color{#994d47}{\textsf{mình không gây ô nhiễm môi trường nhưng ai cũng có}}$ <br>
       $\color{#994d47}{\textsf{thể trở thành gia vị nên mình xl về chuyện đó nhé.}}$ <br>
       $\color{#D9A883}{\textsf{mình không nóng cũng không lạnh nhưng có đủ chuyện phiếm để kể với bạn <3.}}$ <br>
       $\color{#994d47}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
-      $\color{#D9A883}{\textsf{đôi khi mình ngồi 1 mình, offtab, không để ý đến viêc tương tác cho nên hãy whis nhe.}}$ <br>
+      $\color{#D9A883}{\textsf{đôi khi ngồi 1 mình, offtab, không để ý việc tương tác cho nên bạn hãy whis nhe.}}$ <br>
       $\color{#994d47}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>
       $\color{#D9A883}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>
       $\color{#994d47}{\textsf{nếu bạn là 1 người tiêu cực, sở thú, ấm straw, bạo lực, muốn 44,}}$ <br>

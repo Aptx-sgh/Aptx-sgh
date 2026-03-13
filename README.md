@@ -20,7 +20,7 @@ thnsk fof vysit <3
   <tr>
     <th>
       $\color{#c9ac7b}{\textsf{feel free to sit near me/cuddle me}}$ <br>
-      $\color{#ef903f}{\textsf{I dont usually pay attention to onl interaction, so please whis to interact!}}$ <br>
+      $\color{#ef903f}{\textsf{I dont usually pay attention to onl int, so please whis to interact!}}$ <br>
       $\color{#c9ac7b}{\textsf{I don't disc against gay, les, bi, etc.(I even like them)<3}}$ <br>
       $\color{#ef903f}{\textsf{I'm a bit jet jet, but I promise I'm kind and sociable!}}$ <br>
       $\color{#c9ac7b}{\textsf{I'm ABG, born 9/ 16/ 2xxx.}}$ <br>

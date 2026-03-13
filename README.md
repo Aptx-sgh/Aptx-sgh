@@ -35,7 +35,7 @@ thnsk fof vysit <3
 </table>
 
 
-<img width="227" height="442" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
+<img width="207" height="422" alt="Screenshot 2026-03-09 151057" src="https://github.com/user-attachments/assets/7f338c5d-2d90-4b57-aeb0-75bda818ab57" align="left"/>
 
 
 <div align="right">

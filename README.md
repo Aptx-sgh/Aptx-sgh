@@ -40,7 +40,7 @@ thnsk fof vysit <3
 
 <div align="right">
   </br>
-   <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" align="centre"/>
+   <img width="200" height="500" alt="Screenshot 2026-03-01 094517" src="https://github.com/user-attachments/assets/075ac009-6125-45df-a530-5e8e71d541c3" align="left"/>
 
 
 <table>
@@ -51,7 +51,7 @@ thnsk fof vysit <3
       $\color{#994d47}{\textsf{mình không yêu đương.}}$ <br>
       $\color{#D9A883}{\textsf{mình thật sự ghét gđ mình nên mình xl về chuyện đó nhé.}}$ <br>
       $\color{#994d47}{\textsf{mình không nóng cũng không lạnh nhưng có đủ chuyện để kể với bạn <3.}}$ <br>
-      $\color{#D9A883}{\textsf{mình không kì thị gay, les, bi, v.v. (mình đu gl, đam, ngôn nữa:9)}}$ <br>
+      $\color{#D9A883}{\textsf{mình không kì thị gay, les, bi, v.v. (mình khá ủng hộ họ:9)}}$ <br>
       $\color{#994d47}{\textsf{đôi khi ngồi 1 mình, offtab, không để ý việc tương tác cho nên bạn hãy whis nhe.}}$ <br>
       $\color{#D9A883}{\textsf{mình không cho phép ai kể cả bạn mình được phép cop/ lấy ý tưởng của mình}}$ <br>
       $\color{#994d47}{\textsf{bạn cứ hỏi bất cứ điều gì, bắt chuyện với mình.}}$ <br>

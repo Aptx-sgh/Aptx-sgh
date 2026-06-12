@@ -8,8 +8,14 @@
   
 thnsk fof vysit <3
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=black&right_color=beige&left_text=hi%20my%20besties) <p align="centre">
-<img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightpink">
+
+<p align="centre">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%2369021e&right_color=%230e2234&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
+![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-D5C5AD)
+
+
+
 <img alt="Static Badge" src="https://img.shields.io/badge/lovely_drivers-33-pink">
 
 
@@ -66,6 +72,12 @@ thnsk fof vysit <3
 </details>
 
 <img src="https://github.com/user-attachments/assets/3d4bb221-d18b-414c-a395-c4a3a65e798e" />
+
+<p align="centre">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%2369021e&right_color=%230e2234&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
+![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-D5C5AD)
+
 
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

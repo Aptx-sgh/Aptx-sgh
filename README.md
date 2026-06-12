@@ -50,7 +50,7 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{B64963}About me⩊}}$</summary>
+    <summary>${\textsf{\color{#B64963}About me⩊}}$</summary>
     <div align="center">
       <img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
       <div align="center"> 
@@ -58,13 +58,13 @@ thnsk fof vysit <3
 <table>
   <tr>
     <th>
-      $\color{b64963}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
+      $\color{fbb747}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{e59d2c}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
     </th>
   </tr>
   </table>
@@ -73,10 +73,7 @@ thnsk fof vysit <3
 
 <img src="https://github.com/user-attachments/assets/3d4bb221-d18b-414c-a395-c4a3a65e798e" />
 
-<p align="centre">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%2369021e&right_color=%230e2234&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
-![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-D5C5AD)
 
 
 <!--

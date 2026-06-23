@@ -78,8 +78,8 @@ ${
       $\color{#f8eae3}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{I'll tell you stories if you want, feel comfortable.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{I'll tell u stories if u want, feel comfortable.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; disney philes}}$ <br>
     </th>
   </tr>
   </table>

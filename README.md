@@ -4,22 +4,21 @@
 
 
 <div align="center">
-## hy ther🕊
+<sumary>${\textsf{\color{#eb9ab2}## hy ther🕊}}$</sumary>
   
 thnsk fof vysit <3
 
 
 <p align="centre">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%2369021e&right_color=%230e2234&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
-![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-D5C5AD)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%239e0232&right_color=%23ff5c89&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
+![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-ffbda7)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/lovely_drivers-33-%23f6dfb3">
 
+.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/lovely_drivers-33-pink">
-
-
-<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" div align="center" style="mix-blend-mode: screen"/> 
+<img width="635" height="230" src="https://github.com/user-attachments/assets/6c90d235-3e35-4cb8-9cb4-274b6028d970" div align="center"/> 
 
 -
 <img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
@@ -72,7 +71,6 @@ thnsk fof vysit <3
 </details>
 
 <img src="https://github.com/user-attachments/assets/3d4bb221-d18b-414c-a395-c4a3a65e798e" />
-
 
 
 

@@ -40,8 +40,13 @@ ${
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-<br> Youtube ; ZingMP3 ; Spotify;  
+    <summary>${\textsf{\color{#d480bb}Musyc}}$</summary>
+    <p align="centre">
+<br> ${
+    \color{#ce4a4a}Youtube ;\
+      \color{#ff819c}ZingMP3 ;\
+      \color{#fb9cac}Spotify; \
+      }$
 <br> <a href="https://zingmp3.vn/bai-hat/Xuan-Son-Han-He-Thong-Tu-Cuu-Nhan-Vat-Phan-Dien-Yen-Co-Nguyet-Yue-Zhang/ZUCFA89E.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> 春山恨 - 渡渡狐 《人渣反派自救系统》<a/>
 <br> <a href="https://open,spotify.com/track/3susMyLCOJlzPUYviAAMrJ?si=neWmok0GTyiRLz7wSTQGjg"> 何以歌（《魔道祖师》广播剧主题曲）<a/>
 <br> <a href="https://open.spotify.com/track/00cPBHWGBAnNeJaHpNfUKh?si=DJdZPiGpRCujKRzHhgH1IA"> 一花一劍(《天官賜福》動畫插曲)<a/>
@@ -60,7 +65,7 @@ ${
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{#B64963}About me⩊}}$</summary>
+    <summary>${\textsf{\color{#deafc2}About me⩊}}$</summary>
     <div align="center">
       <img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
       <div align="center"> 
@@ -68,18 +73,20 @@ ${
 <table>
   <tr>
     <th>
-      $\color{fbb747}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
-      $\color{e59d2c}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
     </th>
   </tr>
   </table>
 <br>
 </details>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=50&duration=2000&pause=1000&color=DE2F65&center=true&vCenter=true&width=435&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/d4fdb211-43f5-451f-b903-0845070539ce" />
 

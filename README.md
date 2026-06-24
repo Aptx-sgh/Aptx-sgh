@@ -76,7 +76,7 @@ ${
       $\color{#f8eae3}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{my baby boy: Lac.}}$ <br>
+      $\color{#f8eae3}\normalsize{\texttt{my baby boy: Lac, Nah.}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
       $\color{#f8eae3}\normalsize{\texttt{I'll tell u stories if u want, feel comfortable.}}$ <br>

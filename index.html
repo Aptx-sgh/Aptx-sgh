@@ -75,12 +75,12 @@
                 status.style.color = "#4caf50";
             }).catch(error => {
                 
-                status.textContent = "⚡ Trình duyệt đã chặn phát tự động. Vui lòng bấm vào bất kỳ đâu trên màn hình để nghe nhạc!";
+                status.textContent = "⚡ Hãy bấm vào bất kỳ đâu trên màn hình để nghe nhạc!";
               
                                 
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = "🎵 Đang phát bài hát...";
+                    status.textContent = "🎵 Đang hát cho bạn nghe nè...";
                     status.style.color = "#4caf50";
                 }, { once: true }); 
             });

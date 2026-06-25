@@ -9,22 +9,22 @@
 
 [my gift for visit :3](https://aptx-sgh.github.io/Aptx-sgh/)
 
-  <p align="centre">
+  <p align="center">
 ${
 \color{#ffdbdb}hy\
 \color{#eb9ab2}ther🕊\
 }$
-
+</p>
   
-<p align="centre">
+<p align="center">
 ${
 \color{#eaf7ed}thsnk\
 \color{#e0faff}fof\
 \color{#b3dee2}vysit<3\
 }$
+</p>
 
-
-<div align="centre">
+<div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=drivers&left_color=%239e0232&right_color=%23ff5c89&format=true&logo=docker&height=19) <img width="30" src="https://github.com/user-attachments/assets/43a42b26-ee95-4005-92bc-7810834061e7" />
 ![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-ffbda7)

@@ -61,7 +61,6 @@
     Trình duyệt của bạn không hỗ trợ phát âm thanh.
 </audio>
 
-        <p id="status" class="status-text">Đang cố gắng tự động phát nhạc...</p>
     </div>
 
     <script>
@@ -69,11 +68,7 @@
             const audio = document.getElementById('musicPlayer');
             const status = document.getElementById('status');
                 status.textContent = "⚡ Click on Max!!";
-                status.style.color="#85beff";
-        });
-    </script>
-    
-    <script>                            
+                status.style.color="#85beff";                          
                 document.addEventListener('click', () => {
                     audio.play();
                     status.textContent = "🎀 ྀིྀི Max is singing ♥";

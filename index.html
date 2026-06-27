@@ -70,7 +70,10 @@
             const audio = document.getElementById('musicPlayer');
             const status = document.getElementById('status');
 
-            
+                        audio.play().then(() => {
+                status.textContent = "🎀 ྀིྀི Max is singing ♥...";
+                status.style.color = "#5aa371";
+            }).catch(error => {
                 
                 status.textContent = "⚡ Click on Max!!";
                 status.style.color="#85beff";

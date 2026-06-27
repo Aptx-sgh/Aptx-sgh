@@ -40,7 +40,7 @@
         }
         .status-text {
             font-style: italic;
-            color: #85beff;
+            color: #ffd79f;
             margin-top: 15px;
             font-size: 13px;
         }
@@ -56,19 +56,28 @@
         <h1>𝘫𝘶𝘴𝘵 𝘵𝘩𝘦 𝘸𝘢𝘺 𝘺𝘰𝘶 𝘢𝘳𝘦.</h1>
         <p>ᴍɪʟᴋʏ</p>
         
-        <audio id="musicPlayer" loop controls>
+        <audio id="musicPlayer" autoplay loop controls>
     <source src="lovely.mp3" type="audio/mpeg">
     Trình duyệt của bạn không hỗ trợ phát âm thanh.
 </audio>
 
+                <p id="status" class="status-text">Đang cố gắng tự động phát nhạc...</p>
     </div>
 
     <script>
         window.addEventListener('DOMContentLoaded', () => {
             const audio = document.getElementById('musicPlayer');
             const status = document.getElementById('status');
+            
+            
+            audio.play().then(() => {
+                status.textContent = "🎀 ྀིྀི Max is singing ♥";
+                status.style.color = "#ffd79f";
+            }).catch(error => {
+                
                 status.textContent = "⚡ Click on Max!!";
-                status.style.color="#85beff";                          
+                status.style.color="#85beff";}
+                     
                 document.addEventListener('click', () => {
                     audio.play();
                     status.textContent = "🎀 ྀིྀི Max is singing ♥";

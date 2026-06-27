@@ -35,7 +35,7 @@
         }
         p {
             font-size: 14px;
-            color: #ffadc4;
+            color: #ffa3bd;
             margin-bottom: 30px;
         }
         .status-text {
@@ -77,12 +77,12 @@
             }).catch(error => {
                 
                 status.textContent = "⚡ Click on Max!!";
-              
+                status.style.color="#85beff";
                                 
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = "🎵 Max is singing ♥";
-                    status.style.color = "#4caf50";
+                    status.textContent = "🎀 ྀིྀི Max is singing ♥";
+                    status.style.color = "#ffd79f";
                 }, { once: true }); 
             });
         });

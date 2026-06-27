@@ -71,10 +71,6 @@
             const status = document.getElementById('status');
 
             
-            audio.play().then(() => {
-                status.textContent = "🎵 Đang tự động phát bài hát...";
-                status.style.color = "#ffd79f";
-            }).catch(error => {
                 
                 status.textContent = "⚡ Click on Max!!";
                 status.style.color="#85beff";

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Just the way you are</title>
     <style>
-        body {
+body {
             margin: 0;
             padding: 0;
             background: url('max_meo.jpg') no-repeat center center fixed;
@@ -18,12 +18,13 @@
             height: 100vh;
             text-align: center;
         }
+
         .container {
             background: rgba(255, 255, 255, 0.05);
             padding: 40px;
             border-radius: 20px;
             box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
-            backdrop-filter: blur(10px);
+            backdrop-filter: blur(8px);
             border: 1px solid rgba(255, 255, 255, 0.1);
             max-width: 400px;
             width: 90%;
@@ -40,12 +41,12 @@
         }
         .status-text {
             font-style: italic;
-            color: #ffd79f;
+            color: #ff8787;
             margin-top: 15px;
             font-size: 13px;
         }
         audio {
-            width: 60%;
+            width: 100%;
             margin-top: 20px;
         }
     </style>
@@ -56,31 +57,33 @@
         <h1>𝘫𝘶𝘴𝘵 𝘵𝘩𝘦 𝘸𝘢𝘺 𝘺𝘰𝘶 𝘢𝘳𝘦.</h1>
         <p>ᴍɪʟᴋʏ</p>
         
+<!---trình phát nhạc--->
         <audio id="musicPlayer" autoplay loop controls>
     <source src="lovely.mp3" type="audio/mpeg">
     Trình duyệt của bạn không hỗ trợ phát âm thanh.
 </audio>
 
-                <p id="status" class="status-text">Đang cố gắng tự động phát nhạc...</p>
+        <p id="status" class="status-text">Đang cố gắng tự động phát nhạc...</p>
     </div>
 
     <script>
         window.addEventListener('DOMContentLoaded', () => {
             const audio = document.getElementById('musicPlayer');
             const status = document.getElementById('status');
-            
+
             
             audio.play().then(() => {
-                status.textContent = "🎀 ྀིྀི Max is singing ♥";
-                status.style.color = "#ffd79f";
+                status.textContent = ""🎀 ྀིྀི Max is singing ♥";
+                status.style.color = "#ff8787";
             }).catch(error => {
                 
                 status.textContent = "⚡ Click on Max!!";
-                status.style.color="#85beff";}
-                     
+                status.style.color="#85beff"
+              
+                                
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = "🎀 ྀིྀི Max is singing ♥";
+                    status.textContent = ""🎀 ྀིྀི Max is singing ♥";
                     status.style.color = "#ffd79f";
                 }, { once: true }); 
             });

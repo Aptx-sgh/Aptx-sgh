@@ -8,7 +8,8 @@
         body {
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #1e1e2f, #0f0f1a);
+            background: url('max_meo.jpg') no-repeat center center fixed;
+            background-size: cover;
             color: #ffffff;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
@@ -30,11 +31,11 @@
         h1 {
             font-size: 24px;
             margin-bottom: 10px;
-            color: #00adb5;
+            color: #ff5690;
         }
         p {
             font-size: 14px;
-            color: #eeeeee;
+            color: #ffadc4;
             margin-bottom: 30px;
         }
         .status-text {
@@ -52,8 +53,8 @@
 <body>
 
     <div class="container">
-        <h1>Just the way you are.</h1>
-        <p>Milky</p>
+        <h1>𝘫𝘶𝘴𝘵 𝘵𝘩𝘦 𝘸𝘢𝘺 𝘺𝘰𝘶 𝘢𝘳𝘦.</h1>
+        <p>ᴍɪʟᴋʏ</p>
         
 <!---trình phát nhạc--->
         <audio id="musicPlayer" autoplay loop controls>
@@ -75,12 +76,12 @@
                 status.style.color = "#4caf50";
             }).catch(error => {
                 
-                status.textContent = "⚡ Hãy bấm vào bất kỳ đâu trên màn hình để nghe nhạc!";
+                status.textContent = "⚡ Click on Max!!";
               
                                 
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = "🎵 Đang hát cho bạn nghe nè...";
+                    status.textContent = "🎵 Max is singing ♥";
                     status.style.color = "#4caf50";
                 }, { once: true }); 
             });

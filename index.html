@@ -27,7 +27,7 @@ body {
             backdrop-filter: blur(8px);
             border: 1px solid rgba(255, 255, 255, 0.1);
             max-width: 400px;
-            width: 90%;
+            width: 100%;
         }
         h1 {
             font-size: 24px;
@@ -72,7 +72,7 @@ body {
 
             
             audio.play().then(() => {
-                status.textContent = ""🎀 ྀིྀི Max is singing ♥";
+                status.textContent = ""🎀 ྀ Max is singing ♥";
                 status.style.color = "#ff8787";
             }).catch(error => {
                 
@@ -82,7 +82,7 @@ body {
                                 
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = ""🎀 ྀིྀི Max is singing ♥";
+                    status.textContent = ""🎀 ྀ Max is singing ♥";
                     status.style.color = "#ffd79f";
                 }, { once: true }); 
             });

@@ -38,30 +38,23 @@ ${
 <div align="center">  
   <details>
     <summary>${\textsf{\color{#deafc2}About me⩊}}$</summary>
-    <div align="left">
-      <img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
-      <div align="left"> 
-<br>
-<table>
-  <tr>
-    <th>
-      $\color{#f8eae3}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{my baby boy: Lac, Nah.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{I'll tell u stories if u want, feel comfortable.}}$ <br>
-      $\color{#f8eae3}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; disney philes}}$ <br>
-    </th>
-  </tr>
-  </table>
-<br>
+ <div align="right">
+<img width="500" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" /> 
+  <div align="left">
+
+<p align="centre">
+  ${
+  \color{#fff000} hi\
+  \color{#f4f4f4}, my\
+  }$
+</p>
+
 </details>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=50&duration=2000&pause=1000&color=DE2F65&center=true&vCenter=true&width=435&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/d4fdb211-43f5-451f-b903-0845070539ce" />
+
 
 
 

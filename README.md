@@ -50,11 +50,11 @@ ${
 
 <p align="centre">
   ${
-  \color{#f8ebe2} You\
-  \color{#f3c4be}can\
-  \color{#fec6a3}call\
-  \color{#ec8366}me\
-  \color{#f26a6c}Beo\
+  \color{#fad3a8} You\
+  \color{#f2aebc}can\
+  \color{#ff9db1}call\
+  \color{#ec6091}me\
+  \color{#ff0077}Beo\
   }$
 </p>
 

@@ -50,7 +50,14 @@ ${
 
 <p align="centre">
   ${
-  \color{#fff000} You can call me Beo\
+  \color{#f8ebe2} You\
+  \color{#f3c4be}can\
+  \color{#fec6a3}call\
+  \color{#ec8366}me\
+  \color{#f26ac6}Beo\
+  }$
+</p>
+
 </details>
 
 <div align="center">

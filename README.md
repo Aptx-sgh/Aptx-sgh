@@ -38,19 +38,22 @@ ${
 <div align="center">  
   <details>
     <summary>${\textsf{\color{#deafc2}About me⩊}}$</summary>
- <div align="right">
-<img width="500" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" /> 
-  <div align="left">
+
+<img width="500" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" align="right"/> 
 
 <p align="centre">
   ${
-  \color{#fff000} hi\
-  \color{#f4f4f4}, my\
+  \color{#fff000} hi ☺\
+  \color{#f4f4f4}, i'm B.\
   }$
 </p>
 
+<p align="centre">
+  ${
+  \color{#fff000} You can call me Beo\
 </details>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=50&duration=2000&pause=1000&color=DE2F65&center=true&vCenter=true&width=435&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
 
 <img src="https://github.com/user-attachments/assets/d4fdb211-43f5-451f-b903-0845070539ce" />

@@ -43,8 +43,8 @@ ${
 
 <p align="centre">
   ${
-  \color{#fff000} hi ☺\
-  \color{#f4f4f4}, i'm B.\
+  \color{#fe676e} hi ☺\
+  \color{#c73866}, i'm B.\
   }$
 </p>
 
@@ -54,7 +54,7 @@ ${
   \color{#f3c4be}can\
   \color{#fec6a3}call\
   \color{#ec8366}me\
-  \color{#f26ac6}Beo\
+  \color{#f26a6c}Beo\
   }$
 </p>
 

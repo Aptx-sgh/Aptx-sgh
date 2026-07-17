@@ -41,7 +41,7 @@ ${
   <details>
     <summary>${\textsf{\color{#deafc2}About me⩊}}$</summary>
 
-<img width="500" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" align="right"/> 
+<img width="460" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" align="right"/> 
 
 <p align="centre">
   ${

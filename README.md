@@ -53,7 +53,7 @@ ${
 <p align="centre">
   ${
   \color{#fad3a8} You\
-  \color{#f2aebc}can\
+  \color{#f7b297}can\
   \color{#ff9db1}call\
   \color{#ec6091}me\
   \color{#ff0077}Beo\
@@ -65,6 +65,16 @@ ${
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=40&duration=10&pause=900000&color=DE2F65&center=true&vCenter=true&width=400&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
+
+<p align="centre">
+  ${
+  \color{#ffeab2} My\
+  \color{#f7b297} femboy:\
+  \color{#e2807d} Onh,\
+  \color{#e3647f} Lac,\
+  \color{#fb016d} Haly.\
+  }$
+</p>
 
 </details>
 

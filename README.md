@@ -63,7 +63,7 @@ ${
 <img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
  <img src="https://github.com/user-attachments/assets/c4a488fb-21fe-4db4-a558-2c9189cf40dd" width="90"/>
 
-<div align="center">
+<div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=40&duration=10&pause=9000&color=DE2F65&center=true&vCenter=true&width=400&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
 
 </details>

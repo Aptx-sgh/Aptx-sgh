@@ -64,7 +64,7 @@ ${
  <img src="https://github.com/user-attachments/assets/c4a488fb-21fe-4db4-a558-2c9189cf40dd" width="90"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=30&duration=10&pause=1000&color=DE2F65&center=true&vCenter=true&width=435&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=40&duration=10&pause=1000&color=DE2F65&center=true&vCenter=true&width=420&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
 
 </details>
 

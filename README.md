@@ -7,8 +7,6 @@
 
 ..
 
-[my gift for visit :3](https://aptx-sgh.github.io/Aptx-sgh/)
-
   <p align="center">
 ${
 \color{#ffdbdb}hy\
@@ -49,6 +47,8 @@ ${
   \color{#c73866}, i'm B.\
   }$
 </p>
+
+[B B B B!!](https://aptx-sgh.github.io/Aptx-sgh/)
 
 <p align="centre">
   ${

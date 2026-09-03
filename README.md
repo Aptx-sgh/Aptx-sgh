@@ -48,7 +48,7 @@ ${
   }$
 </p>
 
-[B B B B!!](https://aptx-sgh.github.io/Aptx-sgh/)
+
 
 <p align="centre">
   ${

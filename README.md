@@ -25,19 +25,12 @@ ${
 
 .
 
-<img width="635" height="230" src="https://github.com/user-attachments/assets/6c90d235-3e35-4cb8-9cb4-274b6028d970" div align="center"/> 
-
-.
 
 ✧
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=22&pause=1000&color=FF4EA3&center=true&vCenter=true&width=435&lines=Meow+meow+meow+meow+Max+is+a+Cat!!+" alt="Typing SVG" /></a>
 ✧
 
 .
-</details>
-<div align="center">  
-  <details>
-    <summary>${\textsf{\color{#deafc2}About me⩊}}$</summary>
 
 <img width="410" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" align="right"/> 
 
@@ -60,6 +53,16 @@ ${
   }$
 </p>
 
+<p align="centre">
+  ${
+  \color{#fad3a8}I\
+  \color{#f7b297}enjoy\
+  \color{#ff9db1}making\
+  \color{#ec6091}small\
+  \color{#ff0077}talk😊\
+  }$
+</p>
+
 <img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
  <img src="https://github.com/user-attachments/assets/c4a488fb-21fe-4db4-a558-2c9189cf40dd" width="90"/>
 
@@ -76,7 +79,6 @@ ${
   }$
 </p>
 
-</details>
 
 
 <img src="https://github.com/user-attachments/assets/d4fdb211-43f5-451f-b903-0845070539ce" />

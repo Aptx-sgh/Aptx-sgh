@@ -50,7 +50,9 @@
   <img width="250" src="https://github.com/user-attachments/assets/121ab045-7098-4ae7-8013-84171b9aa11b" />
 </p>
 
-
+<p align="centre"> 
+  <a href=dangthanhthao1609@gmail.com>𝚌𝚘𝚗𝚝𝚊𝚌𝚝  𝚖𝚎  here !</a> 
+</p>
 
 </p>
 </td>

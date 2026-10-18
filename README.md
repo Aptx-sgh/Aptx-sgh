@@ -51,7 +51,7 @@
 </p>
 
 <p align="centre"> 
-  <a href=dangthanhthao1609@gmail.com>𝚌𝚘𝚗𝚝𝚊𝚌𝚝  𝚖𝚎  here !</a> 
+  <a href=[dangthanhthao1609@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)>𝚌𝚘𝚗𝚝𝚊𝚌𝚝  𝚖𝚎  here !</a> 
 </p>
 
 </p>

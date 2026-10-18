@@ -34,7 +34,8 @@
 <img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="1000%" alt="Right Visual"/> 
 </td>
     <td valign="top">
-<h1> <img width="250" src="https://github.com/user-attachments/assets/ea3c6cbb-bdaa-41ab-bd99-ab9fb2020d67" />
+<h1> <img width="259" src="https://github.com/user-attachments/assets/9cd1d023-ba10-49d2-aac0-d44840836828" />
+
 </h1>
       
 <p align="centre">

@@ -34,7 +34,8 @@
 <img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="1000%" alt="Right Visual"/> 
 </td>
     <td valign="top">
-<h1> ${\color{#801336}︴Let's }$ ${\color{#2E304E}go, }$ ${\color{#003F5C}Max! ︴}$ </h1>
+<h1> <img width="250" src="https://github.com/user-attachments/assets/ea3c6cbb-bdaa-41ab-bd99-ab9fb2020d67" />
+</h1>
       
 <p align="centre">
   <img width="250" src="https://github.com/user-attachments/assets/bb82c7c1-a0d8-48d2-84a7-271815740c84" />  

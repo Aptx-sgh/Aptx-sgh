@@ -8,13 +8,10 @@
 ..
 
   <p align="center">
-${
-\color{#ffdbdb}hy\
-\color{#eb9ab2}ther🕊\
-\color{#eaf7ed}thsnk\
-\color{#e0faff}fof\
-\color{#b3dee2}vysit<3\
-}$
+    
+<img width="300" src="https://github.com/user-attachments/assets/6953198a-940f-4baf-acb1-1da18e491aba" />
+
+
 </p>
 
 <div align="center">
@@ -35,48 +32,19 @@ ${
 <img width="410" src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" align="right"/> 
 
 <p align="centre">
-  ${
-  \color{#fe676e} hi ☺\
-  \color{#c73866}, i'm B.\
-  }$
-</p>
-
-
-
-<p align="centre">
-  ${
-  \color{#fad3a8} You\
-  \color{#f7b297}can\
-  \color{#ff9db1}call\
-  \color{#ec6091}me\
-  \color{#ff0077}13s\
-  }$
-</p>
-
-<p align="centre">
-  ${
-  \color{#fad3a8}I\
-  \color{#f7b297}enjoy\
-  \color{#ff9db1}making\
-  \color{#ec6091}small\
-  \color{#ff0077}talk😊\
-  }$
-</p>
+  
+ <img width="250" src="https://github.com/user-attachments/assets/bb82c7c1-a0d8-48d2-84a7-271815740c84" />  .
+</p> 
+.
 
 <img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
  <img src="https://github.com/user-attachments/assets/c4a488fb-21fe-4db4-a558-2c9189cf40dd" width="90"/>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsieur+La+Doulaise&size=40&duration=10&pause=900000&color=DE2F65&center=true&vCenter=true&width=400&lines=i+love+max+verstappen" alt="Typing SVG" /></a>
+ 
+.
 
 <p align="centre">
-  ${
-  \color{#ffeab2} My\
-  \color{#f7b297} femboy:\
-  \color{#e2807d} Onh,\
-  \color{#e3647f} Lac,\
-  \color{#fb016d} Haly.\
-  }$
+  <img width="250" src="https://github.com/user-attachments/assets/121ab045-7098-4ae7-8013-84171b9aa11b" />
+
 </p>
 
 

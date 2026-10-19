@@ -1,7 +1,8 @@
 
 <p align="center">
-  
-  <img width="700" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" />
+ 
+<img width="800" src="https://github.com/user-attachments/assets/3070cb56-9ce7-4043-9b4f-8558ef907077" />
+
   
   </p>
 
@@ -54,7 +55,8 @@
 
 ★ ☆ ★ ☆ 
 
-<p align="center"><img width="700" src="https://github.com/user-attachments/assets/0185886a-947a-4f23-8223-b5385f1e55f1" /></p>
+<p align="center"><img width="800" src="https://github.com/user-attachments/assets/443cfe1f-3fad-4783-ab29-4dc7fa396a4f" />
+</p>
 
 
 

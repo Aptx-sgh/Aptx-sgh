@@ -28,7 +28,7 @@
 .
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="480">
+    <td valign="top" width="460">
 <img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="100%" alt="Right Visual"/> 
 </td>
     <td valign="top">

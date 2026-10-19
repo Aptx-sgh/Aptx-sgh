@@ -25,7 +25,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=22&pause=1000&color=FF4EA3&center=true&vCenter=true&width=435&lines=Meow+meow+meow+meow+Max+is+a+Cat!!+" alt="Typing SVG" /></a>
 ✧
 
-.
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="480">
@@ -57,9 +56,6 @@
 
 <p align="center"><img width="800" src="https://github.com/user-attachments/assets/443cfe1f-3fad-4783-ab29-4dc7fa396a4f" />
 </p>
-
-
-
 
  _ 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓲𝓸𝓷 𝔀𝓲𝓽𝓱: [𝓵𝓪𝓬𝓻𝔁𝓮𝓻](https://github.com/lacrxer) _
 <!--

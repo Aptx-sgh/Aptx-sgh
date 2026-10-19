@@ -1,15 +1,14 @@
 
-<p align ="centre"><img width="700" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" /></p>
+<p align ="centre">
+  
+  <img width="700" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" />
+  
+  </p>
 
-<div align="centre">
-★ ☆ ★ ☆
-</div>
 
   <p align="center">
-
     
 <img width="300" src="https://github.com/user-attachments/assets/6953198a-940f-4baf-acb1-1da18e491aba" />
-
 
 </p>
 

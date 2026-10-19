@@ -1,6 +1,9 @@
 
-<p align ="centre"><img width="800" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" /></p>
-
+<p align ="centre">
+  <img width="700" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" />
+  
+★ ☆ ★ ☆
+</p>
   <p align="center">
     
 <img width="300" src="https://github.com/user-attachments/assets/6953198a-940f-4baf-acb1-1da18e491aba" />
@@ -49,8 +52,9 @@
   </tr>
 </table>
 
+★ ☆ ★ ☆ 
 
-<p align="centre"><img width="800" src="https://github.com/user-attachments/assets/0185886a-947a-4f23-8223-b5385f1e55f1" /></p>
+<p align="centre"><img width="700" src="https://github.com/user-attachments/assets/0185886a-947a-4f23-8223-b5385f1e55f1" /></p>
 
 
 

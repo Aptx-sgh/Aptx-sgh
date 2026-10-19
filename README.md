@@ -1,11 +1,5 @@
-<div align="centre">
 
-<img src="https://github.com/user-attachments/assets/48997ff0-717f-4148-a05a-e62821c89f67" />
-
-
-<div align="center">
-
-..
+<p align ="centre"><img width="800" src="https://github.com/user-attachments/assets/694b6640-4ba2-47b9-9f65-7415419905f6" /></p>
 
   <p align="center">
     
@@ -16,7 +10,7 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers&left_color=%239e0232&right_color=%23ff5c89&format=true&logo=docker&height=19) <img width="40" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers%20%20%F0%9F%8E%83%F0%9F%8D%81&left_color=%23ff0f57&right_color=%23ff708d&logo=netlify&height=19) <img width="40" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c" />
  ![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-ffbda7)
 
 
@@ -56,7 +50,8 @@
 </table>
 
 
-<img src="https://github.com/user-attachments/assets/d4fdb211-43f5-451f-b903-0845070539ce" />
+<p align="centre"><img width="800" src="https://github.com/user-attachments/assets/0185886a-947a-4f23-8223-b5385f1e55f1" /></p>
+
 
 
 

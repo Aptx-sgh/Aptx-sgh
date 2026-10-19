@@ -39,7 +39,7 @@
 </h1>
       
 <p align="centre">
-  <img width="250" src="https://github.com/user-attachments/assets/bb82c7c1-a0d8-48d2-84a7-271815740c84" />  
+  <img width="210" src="https://github.com/user-attachments/assets/bb82c7c1-a0d8-48d2-84a7-271815740c84" />  
 </p> 
 
 <p align="centre">

@@ -34,7 +34,7 @@
 <img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="100%" alt="Right Visual"/> 
 </td>
     <td valign="top">
-<h1> <img width="259" src="https://github.com/user-attachments/assets/9cd1d023-ba10-49d2-aac0-d44840836828" />
+<h1> <img width="210" src="https://github.com/user-attachments/assets/9cd1d023-ba10-49d2-aac0-d44840836828" />
 
 </h1>
       
@@ -43,11 +43,11 @@
 </p> 
 
 <p align="centre">
-  <img width="256" src="https://github.com/user-attachments/assets/669af2ca-c953-4b9a-90c3-d6c0c13c4849" />
+  <img width="210" src="https://github.com/user-attachments/assets/669af2ca-c953-4b9a-90c3-d6c0c13c4849" />
 </p>
  
 <p align="centre">
-  <img width="250" src="https://github.com/user-attachments/assets/121ab045-7098-4ae7-8013-84171b9aa11b" />
+  <img width="210" src="https://github.com/user-attachments/assets/121ab045-7098-4ae7-8013-84171b9aa11b" />
 </p>
 
 </p>

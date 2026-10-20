@@ -1,6 +1,6 @@
 <p align="center">
  
-<img width="800" src="https://github.com/user-attachments/assets/3070cb56-9ce7-4043-9b4f-8558ef907077" />
+<img width="750" src="https://github.com/user-attachments/assets/3070cb56-9ce7-4043-9b4f-8558ef907077" />
 
   </p>
   
@@ -12,9 +12,10 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers%20%20%F0%9F%8E%83%F0%9F%8D%81&left_color=%23ff0f57&right_color=%23ff708d&logo=netlify&height=19) 
-<img width="40" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c"/>
- ![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-ffbda7)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers%20%20%F0%9F%8E%83%F0%9F%8D%81&left_color=%23ff0f57&right_color=%23ff708d&logo=netlify&height=21) 
+<img width="45" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/i%20love%20you%20%3C3-ffbda7">
+
 
  
 ✧
@@ -22,12 +23,10 @@
 ✧
 
 <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="460">
-<img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="100%" alt="Right Visual"/> 
-</td>
-    <td valign="top">
-<h1> <img width="210" src="https://github.com/user-attachments/assets/9cd1d023-ba10-49d2-aac0-d44840836828" />
+  <tr>    
+   <td valign="top" width="250">
+<h1> 
+ <img width="210" src="https://github.com/user-attachments/assets/9cd1d023-ba10-49d2-aac0-d44840836828" align="center" />
 
 </h1>
       
@@ -43,17 +42,20 @@
   <img width="210" src="https://github.com/user-attachments/assets/121ab045-7098-4ae7-8013-84171b9aa11b" />
 </p>
 
-</p>
+<td valign="middle" width="410">
+<img src="https://github.com/user-attachments/assets/1d0e34fc-1619-4d59-afb2-a783cb22580c" width="100%" alt="Right Visual"/> 
+</td>
+
 </td>
   </tr>
 </table>
 
 ★ ☆ ★ ☆ 
 
-<p align="center"><img width="800" src="https://github.com/user-attachments/assets/443cfe1f-3fad-4783-ab29-4dc7fa396a4f" />
+<p align="center"><img width="750" src="https://github.com/user-attachments/assets/443cfe1f-3fad-4783-ab29-4dc7fa396a4f" />
 </p>
 
- _ 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓲𝓸𝓷 𝔀𝓲𝓽𝓱: [𝓵𝓪𝓬𝓻𝔁𝓮𝓻](https://github.com/lacrxer) _
+ _ 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓲𝓸𝓷 𝔀𝓲𝓽𝓱 : [𝓵𝓪𝓬𝓻𝔁𝓮𝓻](https://github.com/lacrxer) _
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,12 +1,10 @@
-
 <p align="center">
  
 <img width="800" src="https://github.com/user-attachments/assets/3070cb56-9ce7-4043-9b4f-8558ef907077" />
 
-  
   </p>
-
-  <p align="center">
+  
+<p align="center">
     
 <img width="300" src="https://github.com/user-attachments/assets/6953198a-940f-4baf-acb1-1da18e491aba" />
 
@@ -14,15 +12,13 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers%20%20%F0%9F%8E%83%F0%9F%8D%81&left_color=%23ff0f57&right_color=%23ff708d&logo=netlify&height=19) <img width="40" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.visitor-badge&left_text=drivers%20%20%F0%9F%8E%83%F0%9F%8D%81&left_color=%23ff0f57&right_color=%23ff708d&logo=netlify&height=19) 
+<img width="40" src="https://github.com/user-attachments/assets/19d58722-3839-48e6-a7cc-f22cefbdea7c"/>
  ![Static Badge](https://img.shields.io/badge/i%20love%20you%20<3-ffbda7)
 
-
-.
-
-
+ 
 ✧
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=22&pause=1000&color=FF4EA3&center=true&vCenter=true&width=435&lines=Meow+meow+meow+meow+Max+is+a+Cat!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=22&pause=1000&color=FF4EA3&center=true&vCenter=true&width=435&lines=Meow+meow+meow+meow+Max+is+a+Cat!!+" alt="Typing SVG" /> </a>
 ✧
 
 <table border="0" cellpadding="0" cellspacing="0">
